@@ -1,33 +1,35 @@
-# Formation en Intelligence Artificielle 🤖📚
-# Formateur :  Cayeniga Anthelme Zakaria Coulibaly 
-Bienvenue dans ce dépôt contenant les ressources de formation sur l'Intelligence Artificielle.
+# 🎓 Formation sur l'Intelligence Artificielle 
 
-## 📦 Contenu disponible à télécharger :
-
-- 🧠 **Modèles d'IA populaires et leur usage**  
-  *(fichier Word)*
-
-- 🎞️ **Présentation PowerPoint sur les fondamentaux des IA et leur importance**  
-  *(fichier PowerPoint)*
-
-- 📘 Autres documents : exercices, mini-projets IA.
+Bienvenue dans ce dépôt dédié à la formation sur l'importance des **IA** organisée par **Cyeniga Anthelme Zakaria Coulibaly**.  
+Vous trouverez ici les documents essentiels à télécharger pour suivre la formation ou la passez en revue.
 
 ---
 
-## 📥 Téléchargement
+## 📂 Contenu du dépôt
 
-Cliquez sur chaque fichier ci-dessus ou explorez le dossier `documents/` pour les télécharger individuellement.
+| Nom du fichier | Description |
+|----------------|-------------|
+| `Atelier_IA.pptx` | Diaporama de présentation utilisé lors de l'atelier. |
+| `Guide_de_Prompting_Hacker_IT.docx` | Guide pratique sur l’utilisation des prompts pour mieux exploiter les IA (ex : ChatGPT). |
+|  `Projet_IA.pdf` | Document pour l'application des connaissances acquises après la formation sur les IA. |
 
-Pour télécharger tout le contenu :
-1. Cliquez sur le bouton vert `<> Code`
-2. Sélectionnez **Download ZIP**
+---
+
+## 📝 Objectifs de la formation
+
+- Comprendre le fonctionnement des IA génératives.
+- Savoir utiliser des outils comme ChatGPT, Gemini, Claude, etc.
+- Apprendre à rédiger des prompts efficaces.
+- Découvrir les domaines d’application de l’IA dans l’éducation, la cybersécurité, le développement et plus.
 
 ---
 
-## 🙋‍♂️ Besoin d’aide ?
+## 📥 Télécharger les fichiers
 
-N'hésitez pas à me contacter via Mail : coulzak14@gmail.com ou sur Linkedin : www.linkedin.com/in/
-cayeniga-anthelme-zakaria-coulibaly-018b28341
- 
+Cliquez sur les fichiers ci-dessus ou utilisez le bouton "Download" pour récupérer tous les fichiers.
 
 ---
+
+## 💬 Contacts
+
+Pour toute question, contactez-nous via [coulzak14@gmail.com] ou suivez moi sur Linkedin via **[www.linkedin.com/in/cayeniga-anthelme-zakaria-coulibaly-018b28341]**.
